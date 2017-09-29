@@ -34,13 +34,13 @@ Input to the application consists of two files. The users file and the tweets fi
 ### Output format
 
 USER   
-    <tab> USER: MESSAGE   
-    <tab> USER: MESSAGE   
-    <tab> USER: MESSAGE   
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<tab> USER: MESSAGE   
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<tab> USER: MESSAGE   
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<tab> USER: MESSAGE   
 USER   
-    <tab> USER: MESSAGE   
-    <tab> USER: MESSAGE   
-    <tab> USER: MESSAGE   
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<tab> USER: MESSAGE   
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<tab> USER: MESSAGE   
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<tab> USER: MESSAGE   
 
 ## Assumptions  
 
