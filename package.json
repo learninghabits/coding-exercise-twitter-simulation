@@ -1,0 +1,13 @@
+{
+  "name": "twittify",
+  "version": "0.0.1",
+  "description": "Reads two input files. The first file contain twitter users and people they follow, the second file contains their tweets",
+  "main": "app.js",
+  "scripts": {},
+  "author": "Tshepo Ntlhokoa <tshepo.ntlhokoa@gmail.com>",
+  "dependencies": {
+    "fs-utils": "^0.7.0",
+    "lodash": "^4.17.4",
+    "underscore": "^1.8.3"
+  }
+}
