@@ -16,12 +16,12 @@ Input to the application consists of two files. The users file and the tweets fi
 
 ### The users file 
 
-    A well-formed line will follow a pattern like this: [USER follows A, B, C] where USER represents a twitter handle and A, B,C represents a list of twitter handles they follow.
-    e.g. @Tshepo follows @Jeff, @Travis, @UncleBob
+A well-formed line will follow a pattern like this: [USER follows A, B, C] where USER represents a twitter handle and A, B,C represents a list of twitter handles they follow.   
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e.g. @Tshepo follows @Jeff, @Travis, @UncleBob
 
 ### The tweets file
 
-    A well-formed line will follow a patter like this: [USER> MESSAGE] where USER represents a twitter handler and a MESSAGE represents a message (of up to 140 chars) they tweeted.
+A well-formed line will follow a patter like this: [USER> MESSAGE] where USER represents a twitter handler and a MESSAGE represents a message (of up to 140 chars) they tweeted.
 
  ## Output  
 
